@@ -1,3 +1,5 @@
+$env:Path += ";C:\Program Files\OpenSSL-Win64\bin"
+
 # generate_cert.ps1
 Write-Host "Generating self-signed TLS certificate for localhost..." -ForegroundColor Green
 

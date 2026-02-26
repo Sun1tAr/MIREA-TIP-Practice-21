@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"os"
 	"time"
 
 	"github.com/sun1tar/MIREA-TIP-Practice-21/tech-ip-sem2/shared/logger"
